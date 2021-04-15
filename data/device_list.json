@@ -1,12 +1,12 @@
-{
+[
     {
-        deviceUUID: "001122334455",
-        deviceName: "Device 1",
-        deviceAddr: "127.0.0.1"
+        "deviceUUID": "001122334455",
+        "deviceName": "Device 1",
+        "deviceAddr": "127.0.0.1"
     },
     {
-        deviceUUID: "112233445566",
-        deviceName: "Device 2",
-        deviceAddr: "0.0.0.0"
-    },
-}
+        "deviceUUID": "112233445566",
+        "deviceName": "Device 2",
+        "deviceAddr": "0.0.0.0"
+    }
+]
