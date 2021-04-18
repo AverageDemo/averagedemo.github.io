@@ -1,0 +1,10 @@
+{
+  "currentData": [
+    {
+      "sensor1": "001122334455",
+      "sensor2": "Device 1",
+      "sensor3": "127.0.0.1"
+    }
+  ],
+  "logData": []
+}
