@@ -8,25 +8,25 @@
   ],
   "logData": [
     {
-      "timestamp": "",
+      "timestamp": "2018-05-28T17:30:13Z",
       "sensor1": 72,
       "sensor2": 73,
       "sensor3": 105
     },
     {
-      "timestamp": "",
+      "timestamp": "2018-05-28T17:00:13Z",
       "sensor1": 101,
       "sensor2": 70,
       "sensor3": 104
     },
     {
-      "timestamp": "",
+      "timestamp": "2018-05-28T16:30:13Z",
       "sensor1": 79,
       "sensor2": 77,
       "sensor3": 103
     },
     {
-      "timestamp": "",
+      "timestamp": "2018-05-28T16:00:13Z",
       "sensor1": 80,
       "sensor2": 76,
       "sensor3": 102
