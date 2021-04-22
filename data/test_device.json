@@ -11,26 +11,25 @@
       "timestamp": "",
       "sensor1": 72,
       "sensor2": 73,
-      "sensor3": 74
+      "sensor3": 105
     },
     {
       "timestamp": "",
-      "sensor1": 98,
+      "sensor1": 101,
       "sensor2": 70,
-      "sensor3": 62
+      "sensor3": 104
     },
     {
       "timestamp": "",
       "sensor1": 79,
       "sensor2": 77,
-      "sensor3": 99
+      "sensor3": 103
     },
     {
       "timestamp": "",
       "sensor1": 80,
       "sensor2": 76,
-      "sensor3": 72
+      "sensor3": 102
     },
-    
   ]
 }
