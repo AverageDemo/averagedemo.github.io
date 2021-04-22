@@ -6,5 +6,31 @@
       "sensor3": 74
     }
   ],
-  "logData": []
+  "logData": [
+    {
+      "timestamp": "",
+      "sensor1": 72,
+      "sensor2": 73,
+      "sensor3": 74
+    },
+    {
+      "timestamp": "",
+      "sensor1": 98,
+      "sensor2": 70,
+      "sensor3": 62
+    },
+    {
+      "timestamp": "",
+      "sensor1": 79,
+      "sensor2": 77,
+      "sensor3": 99
+    },
+    {
+      "timestamp": "",
+      "sensor1": 80,
+      "sensor2": 76,
+      "sensor3": 72
+    },
+    
+  ]
 }
