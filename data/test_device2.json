@@ -1,23 +1,26 @@
+// 20210427230941
+// https://raw.githubusercontent.com/AverageDemo/averagedemo.github.io/master/data/test_device.json
+
 {
   "currentData": [
     {
-      "sensor1": 40,
+      "sensor1": 72,
       "sensor2": 73,
       "sensor3": 74
     }
   ],
   "logData": [
     {
-      "timestamp": "",
-      "sensor1": 10,
-      "sensor2": 20,
-      "sensor3": 30
+      "timestamp": "2018-05-28T00:00:00Z",
+      "sensor1": 101,
+      "sensor2": 70,
+      "sensor3": 104
     },
     {
-      "timestamp": "",
-      "sensor1": 40,
-      "sensor2": 50,
-      "sensor3": 60
+      "timestamp": "2018-05-28T01:00:00Z",
+      "sensor1": 96,
+      "sensor2": 76,
+      "sensor3": 102
     }
   ]
 }
